@@ -12,4 +12,4 @@ Some description added
 
 ## Deployment
 
-Read to deploy:
+Read to deploy: Instructions here.
