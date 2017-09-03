@@ -13,3 +13,6 @@ Some description added
 ## Deployment
 
 Read to deploy: Instructions here.
+
+###Copyright
+git. copyrighted.
